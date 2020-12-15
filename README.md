@@ -23,8 +23,8 @@ insult them :wink:
 * Heroku
 
 
-You can find Cat Dog Classification Repository 
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/harddy-bit/Cat-Dog-Classification-Using-CNN)
+<a href ="https://github.com/harddy-bit/Cat-Dog-Classification-Using-CNN">You can find Cat Dog Classification Repository</a> 
+
 
 
 
